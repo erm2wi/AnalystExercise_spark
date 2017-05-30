@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ad_data",
+				"ad_data_clicked"
+			],
+			[
+				"cpc",
+				"cpc_bykeyword"
+			],
+			[
+				"ad",
+				"ad_data1_converted"
+			],
+			[
+				"ec",
+				"ec2-user"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 135.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Git",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Themr: Next theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ever",
+				"Evernote: Insert Attachment Here"
+			],
+			[
+				"ev",
+				"Evernote: Search Note"
+			],
+			[
+				" inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 599.0
+	},
+	"console":
+	{
+		"height": 524.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/huhongming/Documents/myprojects/AnalystExercise_spark"
+	],
+	"file_history":
+	[
+		"/Users/huhongming/Documents/myprojects/AnalystExercise_spark/ch04_average_order_size.scala",
+		"/Users/huhongming/go/src/hello/hello.go",
+		"/Users/huhongming/go/src/hello/functions-continued.go",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/second_etl.scala",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/first_etl.scala",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/low_cost_sites.scala",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/ch04_count_order_by_period.hql",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/chap4_count_order_by_period.scala",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/ch04_count_tablet_orders_by_period.scala",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/high_cost_keywords.scala",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/total_click_count.scala",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/second_etl.hql",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/frist_etl.hql",
+		"/Users/huhongming/Documents/myprojects/nodejsprojects/learnyounode/mymodule.js",
+		"/Users/huhongming/Documents/myprojects/nodejsprojects/learnyounode/program9.js",
+		"/Users/huhongming/Documents/myprojects/nodejsprojects/javascripting/scope.js",
+		"/Users/huhongming/Documents/myprojects/nodejsprojects/learnyounode/program6.js",
+		"/Users/huhongming/Downloads/Cloudera_AnalystTrainingAndChallengeSolutionData/training_materials/analyst/exercises/lab05_extending_pig/extract_metadata.pig",
+		"/Users/huhongming/Downloads/NYSE Daily 1970-2010 Open, Close, High, Low and Volume/infochimps_dataset_4778_download_16677.icss.yaml",
+		"/Users/huhongming/Downloads/Cloudera_AnalystTrainingAndChallengeSolutionData/training_materials/analyst/exercises/lab03_analyze_ads/low_cost_sites.pig",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/ch3_low_cost.pig",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/first_etl.pig",
+		"/Users/huhongming/Downloads/Cloudera_AnalystTrainingAndChallengeSolutionData/training_materials/analyst/exercises/lab02_pig_etl/sample_solution/second_etl.pig",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/second_etl.pig",
+		"/Users/huhongming/Documents/myprojects/AnalystExercise/nolog.conf",
+		"/Users/huhongming/Downloads/Cloudera_AnalystTrainingAndChallengeSolutionData/training_materials/analyst/exercises/lab02_pig_etl/second_etl.pig",
+		"/Users/huhongming/Downloads/ami-eec1c380",
+		"/Users/huhongming/Downloads/untitled.yaml",
+		"/Users/huhongming/Downloads/ansible.yml",
+		"/Users/huhongming/Downloads/udid.txt",
+		"/Users/huhongming/Downloads/Cloudera_AnalystTrainingAndChallengeSolutionData/training_materials/analyst/exercises/lab02_pig_etl/first_etl.pig",
+		"/Users/huhongming/Downloads/pig-0.12.0-cdh5.3.10/bin/pig",
+		"/Users/huhongming/Library/Application Support/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+		"/Users/huhongming/Downloads/test.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ad_data1_reordered",
+			". . . . . . .>",
+			"10.0.0.110",
+			"sandbox.hortonworks.com",
+			". . . . . . . . . . . . . . . .> ",
+			"reordereddata"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ad_data1_converted",
+			"",
+			"ip-10-0-0-110.ap-northeast-1.compute.internal",
+			"10.0.0.110",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "AnalystExercise_spark.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
